@@ -2,8 +2,8 @@
 
 This is a hero section of the a Dance website which has unique and creative design that makes it beautiful. It is completly responsive on tablet, mobile devices.
 
-![Website look](./webpic-1.jpg)
-![Website look](./webpic-2.jpg)
+![Website look](./images/webpic-1.jpg)
+![Website look](./images/webpic-2.jpg)
 
 
 ## 🛠 Technologies Used
